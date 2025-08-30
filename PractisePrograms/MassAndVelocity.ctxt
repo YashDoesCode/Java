@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MassAndVelocity
+comment1.params=m\ v
+comment1.target=void\ massAndVelocity(double,\ double)
+numComments=2

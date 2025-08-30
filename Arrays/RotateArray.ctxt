@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RotateArray
+comment1.params=arr\ i\ j
+comment1.target=void\ reverse(int[],\ int,\ int)
+comment2.params=arr\ k
+comment2.target=int[]\ rotateArray(int[],\ int)
+comment3.params=arr\ k
+comment3.target=void\ rotateInPlace(int[],\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

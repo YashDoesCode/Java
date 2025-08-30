@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DiagonalOfCuboid
+comment0.text=WAP\ to\ calculate\ the\ diagonal\ of\ a\ cuboid(l,b,h)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=length\ breadth\ height
+comment2.target=int\ lengthOfDiagonal(int,\ int,\ int)
+numComments=3

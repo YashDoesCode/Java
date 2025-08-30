@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MultipleHarshad
+comment0.text=\r\n\ MultipleHarshad\ number\ is\ a\ number\ which\ when\ divided\ by\ the\ sum\ of\ its\ digit,\ produces\ another\ harshad\ or\ niven\ number,i.e.,\ divisible\ by\ the\ sum\ of\ its\ digit.\r\n
+comment1.params=n
+comment1.target=int\ sumDigits(int)
+comment2.params=n
+comment2.target=boolean\ isHarshad(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

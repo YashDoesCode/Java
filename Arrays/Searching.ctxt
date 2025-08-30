@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Searching
+comment1.params=arr
+comment1.target=void\ printArray(int[])
+comment2.params=arr\ key
+comment2.target=int\ LinearSearch(int[],\ int)
+comment3.params=arr\ low\ high\ key
+comment3.target=int\ BinarySearch(int[],\ int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

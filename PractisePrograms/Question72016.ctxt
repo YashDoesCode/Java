@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Question72016
+comment1.params=n\ x
+comment1.target=void\ sumSeries(int,\ double)
+comment2.params=
+comment2.target=void\ sumSeries()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

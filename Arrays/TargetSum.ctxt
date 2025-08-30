@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TargetSum
+comment1.params=n
+comment1.target=TargetSum(int)
+comment2.params=x
+comment2.target=int\ noOfPairs(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
