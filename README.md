@@ -16,21 +16,27 @@ These channels provided in-depth explanations, practical knowledge of Java as a 
 [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 
 **Apna College - Shraddha Khapra**
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/5891704d-377d-4198-886a-d66f0325beca" />
 [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
 
-***Bro Code**
+**Bro Code**
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/1981318c-9874-4f27-a447-c11eab282c80" />
 [Bro Code](https://www.youtube.com/@BroCodez)
 
 **College Wallah**
+<img width="224" height="225" alt="image" src="https://github.com/user-attachments/assets/10686744-2716-4b1f-8129-8c5bd32dceb1" />
 [College Wallah](https://www.youtube.com/c/CollegeWallahbyPW)
 
 **WPS Cube Tech**
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7132a29e-96df-4d21-b6ce-6902498fc560" />
 [WPS Cube Tech](https://www.youtube.com/c/WPSCubeTech)
 
 ***Smart Programming***
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/891e3089-36e7-4362-8fc8-225143396a81" />
 [Smart Programming](https://www.youtube.com/@SmartProgramming)
 
 ***Learn Coding***
+
 [Learn Coding](https://www.youtube.com/@LearnCodingOfficial)
 
 ### Class IX (2021)
