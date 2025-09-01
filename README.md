@@ -61,15 +61,23 @@ In the first 6 months of class IX, I understood Data Structures and Algorithms (
 
 ### Book References
 My theoretical understanding was strengthened through a comprehensive study of:
+
 1. **"Java: The Complete Reference" (11th Edition)**
+<img src="https://m.media-amazon.com/images/I/61yXSTATHHL._UF1000,1000_QL80_.jpg" alt="Custom Image" width="120" style="border-radius:15px;" />
+
    - Author: Herbert Schildt
    - Comprehensive coverage of Java features and APIs
    - Deep dive into advanced concepts and best practices
 
-2. **Sumita Arora's Java Programming**
-   - ISC Class 11th and 12th curriculum
-   - Excellent for ICSE/ISC board examination preparation
+2. **Computer Science with Java**
+<p>
+  <img src="https://m.media-amazon.com/images/I/91WWBQH1YOL._UF1000,1000_QL80_.jpg" alt="Custom Image 1" width="120" style="border-radius:15px;" />
+  <img src="https://m.media-amazon.com/images/I/91pupiv1kYL._UF1000,1000_QL80_.jpg" alt="Custom Image 2" width="120" style="border-radius:15px;" />
+</p>
 
+
+   - Author: Sumita Arora
+   - Excellent for ICSE/ISC board examination preparation (Text Book)
 
 ## 🔮 Future Plans
 
